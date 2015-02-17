@@ -1,0 +1,50 @@
+html{
+	height: 100%;
+	width: 900px;
+	background-color: white;
+	font-family: sans-serif;	
+}
+
+#banner{
+	text-align: center;
+	float: center;
+	color: red;
+}
+
+#nav{
+	background-color: white;
+	padding: 20px;
+	margin: 10px;
+	text-align: center;
+	float: center;
+}
+
+#container{
+margin-bottom: 10px;
+margin-left: 85px;
+margin-right: 10px;
+margin-top: 10px;
+padding-bottom: 10px;
+padding-left: 10px;
+padding-right: 10px;
+padding-top: 10px;
+text-align: center;
+float: center;
+width: 90%;
+border: 2px solid black;
+}
+
+ul{
+	display: inline;
+	padding: 5px;
+}
+
+#main{
+	width: 600px;
+	margin-left: 100px;
+}
+
+#pic{
+	text-align: center;
+	float: center;
+}
